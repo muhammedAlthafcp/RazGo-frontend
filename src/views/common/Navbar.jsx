@@ -45,6 +45,12 @@ export default function Navbar() {
         <Link to="/success-stories" className="hover:text-green-600">
           Success Stories
         </Link>
+        <Link to="/business" className="hover:text-green-600">
+         business
+        </Link>
+        <Link to="/admin" className="hover:text-green-600">
+          admin
+        </Link>
       </div>
 
       {/* RIGHT ACTIONS */}
